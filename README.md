@@ -70,7 +70,6 @@ Follow the steps below to run the project on your local machine:
 - `order_items` – line items for each order  
 - `admin` – login data for admin dashboard  
 
-*(Note: table names may vary based on your SQL script.)*
 
 ---
 
