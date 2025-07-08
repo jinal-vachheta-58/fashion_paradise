@@ -73,5 +73,5 @@ Follow the steps below to run the project on your local machine:
 
 ---
 
-## 📁 Folder Structure (Simplified)
+
 
